@@ -25,4 +25,4 @@ int main() {
   }
   //end
   return 0;
-}   // printf("%d %d %d", hundreds, tens, ones );
+}   
