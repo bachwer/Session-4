@@ -26,7 +26,6 @@ int main() {
         printf("invalid\n");
     }
     }while(i > 12 || i < 1);
-    // trừ i để khớp với mảng 1.
     i--;
     //In ra kết quả
     printf("%s\n", mon[i]);
